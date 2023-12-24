@@ -1,0 +1,504 @@
+Ticker,Sector
+MMM,industrial conglomerates
+AOS,building products
+ABT,health care equipment
+ABBV,biotechnology
+ACN,it consulting & other services
+ADBE,application software
+AMD,semiconductors
+AES,independent power producers & energy traders
+AFL,life & health insurance
+A,life sciences tools & services
+APD,industrial gases
+ABNB,"hotels, resorts & cruise lines"
+AKAM,internet services & infrastructure
+ALK,passenger airlines
+ALB,specialty chemicals
+ARE,office reits
+ALGN,health care supplies
+ALLE,building products
+LNT,electric utilities
+ALL,property & casualty insurance
+GOOGL,interactive media & services
+GOOG,interactive media & services
+MO,tobacco
+AMZN,broadline retail
+AMCR,paper & plastic packaging products & materials
+AEE,multi-utilities
+AAL,passenger airlines
+AEP,electric utilities
+AXP,consumer finance
+AIG,multi-line insurance
+AMT,telecom tower reits
+AWK,water utilities
+AMP,asset management & custody banks
+AME,electrical components & equipment
+AMGN,biotechnology
+APH,electronic components
+ADI,semiconductors
+ANSS,application software
+AON,insurance brokers
+APA,oil & gas exploration & production
+AAPL,"technology hardware, storage & peripherals"
+AMAT,semiconductor materials & equipment
+APTV,automotive parts & equipment
+ACGL,property & casualty insurance
+ADM,agricultural products & services
+ANET,communications equipment
+AJG,insurance brokers
+AIZ,multi-line insurance
+T,integrated telecommunication services
+ATO,gas utilities
+ADSK,application software
+ADP,human resource & employment services
+AZO,automotive retail
+AVB,multi-family residential reits
+AVY,paper & plastic packaging products & materials
+AXON,aerospace & defense
+BKR,oil & gas equipment & services
+BALL,"metal, glass & plastic containers"
+BAC,diversified banks
+BK,asset management & custody banks
+BBWI,other specialty retail
+BAX,health care equipment
+BDX,health care equipment
+BRK.B,multi-sector holdings
+BBY,computer & electronics retail
+BIO,life sciences tools & services
+TECH,life sciences tools & services
+BIIB,biotechnology
+BLK,asset management & custody banks
+BX,asset management & custody banks
+BA,aerospace & defense
+BKNG,"hotels, resorts & cruise lines"
+BWA,automotive parts & equipment
+BXP,office reits
+BSX,health care equipment
+BMY,pharmaceuticals
+AVGO,semiconductors
+BR,data processing & outsourced services
+BRO,insurance brokers
+BF.B,distillers & vintners
+BG,agricultural products & services
+CDNS,application software
+CZR,casinos & gaming
+CPT,multi-family residential reits
+CPB,packaged foods & meats
+COF,consumer finance
+CAH,health care distributors
+KMX,automotive retail
+CCL,"hotels, resorts & cruise lines"
+CARR,building products
+CTLT,pharmaceuticals
+CAT,construction machinery & heavy transportation equipment
+CBOE,financial exchanges & data
+CBRE,real estate services
+CDW,technology distributors
+CE,specialty chemicals
+COR,health care distributors
+CNC,managed health care
+CNP,multi-utilities
+CDAY,human resource & employment services
+CF,fertilizers & agricultural chemicals
+CHRW,air freight & logistics
+CRL,life sciences tools & services
+SCHW,investment banking & brokerage
+CHTR,cable & satellite
+CVX,integrated oil & gas
+CMG,restaurants
+CB,property & casualty insurance
+CHD,household products
+CI,health care services
+CINF,property & casualty insurance
+CTAS,diversified support services
+CSCO,communications equipment
+C,diversified banks
+CFG,regional banks
+CLX,household products
+CME,financial exchanges & data
+CMS,multi-utilities
+KO,soft drinks & non-alcoholic beverages
+CTSH,it consulting & other services
+CL,household products
+CMCSA,cable & satellite
+CMA,diversified banks
+CAG,packaged foods & meats
+COP,oil & gas exploration & production
+ED,multi-utilities
+STZ,distillers & vintners
+CEG,electric utilities
+COO,health care supplies
+CPRT,diversified support services
+GLW,electronic components
+CTVA,fertilizers & agricultural chemicals
+CSGP,real estate services
+COST,consumer staples merchandise retail
+CTRA,oil & gas exploration & production
+CCI,telecom tower reits
+CSX,rail transportation
+CMI,construction machinery & heavy transportation equipment
+CVS,health care services
+DHR,life sciences tolls & services
+DRI,restaurants
+DVA,health care services
+DE,agricultural & farm machinery
+DAL,passenger airlines
+XRAY,health care supplies
+DVN,oil & gas exploration & production
+DXCM,health care equipment
+FANG,oil & gas exploration & production
+DLR,data center reits
+DFS,consumer finance
+DG,consumer staples merchandise retail
+DLTR,consumer staples merchandise retail
+D,multi-utilities
+DPZ,restaurants
+DOV,industrial machinery & supplies & components
+DOW,commodity chemicals
+DHI,homebuilding
+DTE,multi-utilities
+DUK,electric utilities
+DD,specialty chemicals
+EMN,specialty chemicals
+ETN,electrical components & equipment
+EBAY,broadline retail
+ECL,specialty chemicals
+EIX,electric utilities
+EW,health care equipment
+EA,interactive home entertainment
+ELV,managed health care
+LLY,pharmaceuticals
+EMR,electrical components & equipment
+ENPH,semiconductor materials & equipment
+ETR,electric utilities
+EOG,oil & gas exploration & production
+EPAM,it consulting & other services
+EQT,oil & gas exploration & production
+EFX,research & consulting services
+EQIX,data center reits
+EQR,multi-family residential reits
+ESS,multi-family residential reits
+EL,personal care products
+ETSY,broadline retail
+EG,reinsurance
+EVRG,electric utilities
+ES,electric utilities
+EXC,electric utilities
+EXPE,"hotels, resorts & cruise lines"
+EXPD,air freight & logistics
+EXR,self-storage reits
+XOM,integrated oil & gas
+FFIV,communications equipment
+FDS,financial exchanges & data
+FICO,application software
+FAST,trading companies & distributors
+FRT,retail reits
+FDX,air freight & logistics
+FIS,transaction & payment processing services
+FITB,diversified banks
+FSLR,semiconductors
+FE,electric utilities
+FI,transaction & payment processing services
+FLT,transaction & payment processing services
+FMC,fertilizers & agricultural chemicals
+F,automobile manufacturers
+FTNT,systems software
+FTV,industrial machinery & supplies & components
+FOXA,broadcasting
+FOX,broadcasting
+BEN,asset management & custody banks
+FCX,copper
+GRMN,consumer electronics
+IT,it consulting & other services
+GEHC,health care equipment
+GEN,systems software
+GNRC,electrical components & equipment
+GD,aerospace & defense
+GE,industrial conglomerates
+GIS,packaged foods & meats
+GM,automobile manufacturers
+GPC,distributors
+GILD,biotechnology
+GPN,transaction & payment processing services
+GL,life & health insurance
+GS,investment banking & brokerage
+HAL,oil & gas equipment & services
+HIG,property & casualty insurance
+HAS,leisure products
+HCA,health care facilities
+PEAK,health care reits
+HSIC,health care distributors
+HSY,packaged foods & meats
+HES,integrated oil & gas
+HPE,"technology hardware, storage & peripherals"
+HLT,"hotels, resorts & cruise lines"
+HOLX,health care equipment
+HD,home improvement retail
+HON,industrial conglomerates
+HRL,packaged foods & meats
+HST,hotel & resort reits
+HWM,aerospace & defense
+HPQ,"technology hardware, storage & peripherals"
+HUBB,industrial machinery & supplies & components
+HUM,managed health care
+HBAN,regional banks
+HII,aerospace & defense
+IBM,it consulting & other services
+IEX,industrial machinery & supplies & components
+IDXX,health care equipment
+ITW,industrial machinery & supplies & components
+ILMN,life sciences tools & services
+INCY,biotechnology
+IR,industrial machinery & supplies & components
+PODD,health care equipment
+INTC,semiconductors
+ICE,financial exchanges & data
+IFF,specialty chemicals
+IP,paper & plastic packaging products & materials
+IPG,advertising
+INTU,application software
+ISRG,health care equipment
+IVZ,asset management & custody banks
+INVH,single-family residential reits
+IQV,life sciences tools & services
+IRM,other specialized reits
+JBHT,cargo ground transportation
+JKHY,transaction & payment processing services
+J,construction & engineering
+JNJ,pharmaceuticals
+JCI,building products
+JPM,diversified banks
+JNPR,communications equipment
+K,packaged foods & meats
+KVUE,personal care products
+KDP,soft drinks & non-alcoholic beverages
+KEY,regional banks
+KEYS,electronic equipment & instruments
+KMB,household products
+KIM,retail reits
+KMI,oil & gas storage & transportation
+KLAC,semiconductor materials & equipment
+KHC,packaged foods & meats
+KR,food retail
+LHX,aerospace & defense
+LH,health care services
+LRCX,semiconductor materials & equipment
+LW,packaged foods & meats
+LVS,casinos & gaming
+LDOS,diversified support services
+LEN,homebuilding
+LIN,industrial gases
+LYV,movies & entertainment
+LKQ,distributors
+LMT,aerospace & defense
+L,multi-line insurance
+LOW,home improvement retail
+LULU,"apparel, accessories & luxury goods"
+LYB,specialty chemicals
+MTB,regional banks
+MRO,oil & gas exploration & production
+MPC,oil & gas refining & marketing
+MKTX,financial exchanges & data
+MAR,"hotels, resorts & cruise lines"
+MMC,insurance brokers
+MLM,construction materials
+MAS,building products
+MA,transaction & payment processing services
+MTCH,interactive media & services
+MKC,packaged foods & meats
+MCD,restaurants
+MCK,health care distributors
+MDT,health care equipment
+MRK,pharmaceuticals
+META,interactive media & services
+MET,life & health insurance
+MTD,life sciences tools & services
+MGM,casinos & gaming
+MCHP,semiconductors
+MU,semiconductors
+MSFT,systems software
+MAA,multi-family residential reits
+MRNA,biotechnology
+MHK,home furnishings
+MOH,managed health care
+TAP,brewers
+MDLZ,packaged foods & meats
+MPWR,semiconductors
+MNST,soft drinks & non-alcoholic beverages
+MCO,financial exchanges & data
+MS,investment banking & brokerage
+MOS,fertilizers & agricultural chemicals
+MSI,communications equipment
+MSCI,financial exchanges & data
+NDAQ,financial exchanges & data
+NTAP,"technology hardware, storage & peripherals"
+NFLX,movies & entertainment
+NEM,gold
+NWSA,publishing
+NWS,publishing
+NEE,multi-utilities
+NKE,"apparel, accessories & luxury goods"
+NI,multi-utilities
+NDSN,industrial machinery & supplies & components
+NSC,rail transportation
+NTRS,asset management & custody banks
+NOC,aerospace & defense
+NCLH,"hotels, resorts & cruise lines"
+NRG,independent power producers & energy traders
+NUE,steel
+NVDA,semiconductors
+NVR,homebuilding
+NXPI,semiconductors
+ORLY,automotive retail
+OXY,oil & gas exploration & production
+ODFL,cargo ground transportation
+OMC,advertising
+ON,semiconductors
+OKE,oil & gas storage & transportation
+ORCL,application software
+OTIS,industrial machinery & supplies & components
+PCAR,construction machinery & heavy transportation equipment
+PKG,paper & plastic packaging products & materials
+PANW,systems software
+PARA,movies & entertainment
+PH,industrial machinery & supplies & components
+PAYX,human resource & employment services
+PAYC,human resource & employment services
+PYPL,transaction & payment processing services
+PNR,industrial machinery & supplies & components
+PEP,soft drinks & non-alcoholic beverages
+PFE,pharmaceuticals
+PCG,multi-utilities
+PM,tobacco
+PSX,oil & gas refining & marketing
+PNW,multi-utilities
+PXD,oil & gas exploration & production
+PNC,regional banks
+POOL,distributors
+PPG,specialty chemicals
+PPL,electric utilities
+PFG,life & health insurance
+PG,personal care products
+PGR,property & casualty insurance
+PLD,industrial reits
+PRU,life & health insurance
+PEG,electric utilities
+PTC,application software
+PSA,self-storage reits
+PHM,homebuilding
+QRVO,semiconductors
+PWR,construction & engineering
+QCOM,semiconductors
+DGX,health care services
+RL,"apparel, accessories & luxury goods"
+RJF,investment banking & brokerage
+RTX,aerospace & defense
+O,retail reits
+REG,retail reits
+REGN,biotechnology
+RF,regional banks
+RSG,environmental & facilities services
+RMD,health care equipment
+RVTY,health care equipment
+RHI,human resource & employment services
+ROK,electrical components & equipment
+ROL,environmental & facilities services
+ROP,electronic equipment & instruments
+ROST,apparel retail
+RCL,"hotels, resorts & cruise lines"
+SPGI,financial exchanges & data
+CRM,application software
+SBAC,telecom tower reits
+SLB,oil & gas equipment & services
+STX,"technology hardware, storage & peripherals"
+SEE,paper & plastic packaging products & materials
+SRE,multi-utilities
+NOW,systems software
+SHW,specialty chemicals
+SPG,retail reits
+SWKS,semiconductors
+SJM,packaged foods & meats
+SNA,industrial machinery & supplies & components
+SEDG,semiconductor materials & equipment
+SO,electric utilities
+LUV,passenger airlines
+SWK,industrial machinery & supplies & components
+SBUX,restaurants
+STT,asset management & custody banks
+STLD,steel
+STE,health care equipment
+SYK,health care equipment
+SYF,consumer finance
+SNPS,application software
+SYY,food distributors
+TMUS,wireless telecommunication services
+TROW,asset management & custody banks
+TTWO,interactive home entertainment
+TPR,"apparel, accessories & luxury goods"
+TRGP,oil & gas storage & transportation
+TGT,consumer staples merchandise retail
+TEL,electronic manufacturing services
+TDY,electronic equipment & instruments
+TFX,health care equipment
+TER,semiconductor materials & equipment
+TSLA,automobile manufacturers
+TXN,semiconductors
+TXT,aerospace & defense
+TMO,life sciences tools & services
+TJX,apparel retail
+TSCO,specialty stores
+TT,building products
+TDG,aerospace & defense
+TRV,property & casualty insurance
+TRMB,electronic equipment & instruments
+TFC,regional banks
+TYL,application software
+TSN,packaged foods & meats
+USB,diversified banks
+UDR,multi-family residential reits
+ULTA,specialty stores
+UNP,rail transportation
+UAL,passenger airlines
+UPS,air freight & logistics
+URI,trading companies & distributors
+UNH,managed health care
+UHS,health care facilities
+VLO,oil & gas refining & marketing
+VTR,health care reits
+VLTO,environmental & facilities services
+VRSN,internet services & infrastructure
+VRSK,research & consulting services
+VZ,integrated telecommunication services
+VRTX,biotechnology
+VFC,"apparel, accessories & luxury goods"
+VTRS,pharmaceuticals
+VICI,hotel & resort reits
+V,transaction & payment processing services
+VMC,construction materials
+WRB,property & casualty insurance
+WAB,construction machinery & heavy transportation equipment
+WBA,drug retail
+WMT,consumer staples merchandise retail
+DIS,movies & entertainment
+WBD,broadcasting
+WM,environmental & facilities services
+WAT,life sciences tools & services
+WEC,electric utilities
+WFC,diversified banks
+WELL,health care reits
+WST,health care supplies
+WDC,"technology hardware, storage & peripherals"
+WRK,paper & plastic packaging products & materials
+WY,timber reits
+WHR,household appliances
+WMB,oil & gas storage & transportation
+WTW,insurance brokers
+GWW,industrial machinery & supplies & components
+WYNN,casinos & gaming
+XEL,multi-utilities
+XYL,industrial machinery & supplies & components
+YUM,restaurants
+ZBRA,electronic equipment & instruments
+ZBH,health care equipment
+ZION,regional banks
+ZTS,pharmaceuticals
